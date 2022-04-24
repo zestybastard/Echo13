@@ -53,6 +53,11 @@
 	path = /obj/item/clothing/accessory/armband
 	slot = null
 
+/datum/gear/accessory/waistcoat
+	display_name = "waistcoat"
+	path = /obj/item/clothing/accessory/waistcoat
+	slot = null
+
 /datum/gear/accessory/stethoscope
 	display_name = "stethoscope"
 	path = /obj/item/clothing/neck/stethoscope
@@ -71,6 +76,7 @@
 	display_name = "evening gloves"
 	description = "Excessively fancy elbow-length gloves."
 	path = /obj/item/clothing/gloves/color/evening
+	slot = ITEM_SLOT_GLOVES
 
 /datum/gear/accessory/gloves/maid
 	display_name = "maid arm covers"
@@ -81,4 +87,9 @@
 	display_name = "tiki mask"
 	description = "A wooden mask, simple, really."
 	path = /obj/item/clothing/mask/gas/tiki_mask
+	slot = ITEM_SLOT_MASK
+
+/datum/gear/accessory/joymask
+	display_name = "face with tears of joy mask"
+	path = /obj/item/clothing/mask/joy
 	slot = ITEM_SLOT_MASK
