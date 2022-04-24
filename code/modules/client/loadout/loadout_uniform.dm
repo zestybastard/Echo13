@@ -126,5 +126,10 @@
 	path = /obj/item/clothing/under/misc/psyche
 
 /datum/gear/uniform/maid
+<<<<<<< HEAD
 	display_name = "maid outfit"
 	path = /obj/item/clothing/under/costume/maid
+=======
+	display_name = "maid dress"
+	path = 	/obj/item/clothing/under/costume/maid
+>>>>>>> e7cc15df88 (Fixes some scrunches with loadout (#985))
