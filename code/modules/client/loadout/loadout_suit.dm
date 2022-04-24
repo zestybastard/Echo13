@@ -23,8 +23,6 @@
 	display_name = "leather jacket"
 	path = /obj/item/clothing/suit/jacket/leather
 
-<<<<<<< HEAD
-=======
 /datum/gear/suit/jacket/leather/overcoat
 	display_name = "leather overcoat"
 	path = /obj/item/clothing/suit/jacket/leather/overcoat
@@ -33,7 +31,6 @@
 	display_name = "leather duster"
 	path = /obj/item/clothing/suit/jacket/leather/duster
 
->>>>>>> 4637bb4996 (Adds dusters (#983))
 /datum/gear/suit/jacket/military
 	display_name = "military jacket"
 	path = /obj/item/clothing/suit/jacket/miljacket
@@ -89,4 +86,8 @@
 	display_name = "Cybersun labcoat"
 	description = "Designer lab safety equipment. You're pretty sure this is just a raincoat."
 	path = /obj/item/clothing/suit/toggle/labcoat/raincoat
+
+/datum/gear/suit/ianshirt
+	display_name = "worn shirt"
+	path = /obj/item/clothing/suit/ianshirt
 
