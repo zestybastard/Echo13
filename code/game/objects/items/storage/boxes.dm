@@ -1251,8 +1251,6 @@
 		/obj/item/screwdriver = 1)
 	generate_items_inside(items_inside,src)
 
-<<<<<<< HEAD
-=======
 //It's a maid costume from the IRMG and Syndicate, what else.
 /obj/item/storage/box/inteqmaid
 	name = "IRMG non standard issue maid outfit"
@@ -1289,7 +1287,6 @@
 		/obj/item/clothing/neck/maid = 1,)
 	generate_items_inside(items_inside,src)
 
->>>>>>> 77da1c841b (Syndicate and IRMG maid outfits (#970))
 /obj/item/storage/box/material
 	name = "box of materials"
 	illustration = "implant"
