@@ -108,10 +108,21 @@
 	display_name = "suit, galaxy"
 	path = /obj/item/clothing/under/rank/civilian/lawyer/galaxy
 
-/datum/gear/uniform/suit/white/skirt
+/datum/gear/uniform/suit/white_skirt
 	display_name = "suitskirt, white shirt"
 	path = /obj/item/clothing/under/suit/black/skirt
 
+<<<<<<< HEAD
+=======
+/datum/gear/uniform/suit/green_skirt
+	display_name = "suitskirt, green"
+	path = /obj/item/clothing/under/rank/command/captain/suit/skirt
+
+/datum/gear/uniform/suit/teal_skirt
+	display_name = "suitskirt, teal"
+	path = /obj/item/clothing/under/rank/command/head_of_personnel/suit/skirt
+
+>>>>>>> 5bb1239021 (ignite the light (#1008))
 /datum/gear/uniform/suit/white_shirt
 	display_name = "suit, white shirt"
 	path = /obj/item/clothing/under/suit/black
