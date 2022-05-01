@@ -245,4 +245,3 @@
 /datum/gear/uniform/maid
 	display_name = "maid dress"
 	path = 	/obj/item/clothing/under/costume/maid
-  
